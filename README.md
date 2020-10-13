@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hi world!
+
+My idol is YiboWang and I enjoy hiphop.
